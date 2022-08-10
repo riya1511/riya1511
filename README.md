@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya Rai</h1>
 <h3 align="center">A Sophomore at VIT AP University and a passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web3**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bBp8n9-xB1jH_l1tPqZH883z3wQLdl-q/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **You will always find me reading books**
 
