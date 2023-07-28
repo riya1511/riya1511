@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bBp8n9-xB1jH_l1tPqZH883z3wQLdl-q/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WS9rnuUgKeYhrMXxeVPlzMlVwrgN8Xkl/view?usp=sharing)
 
 - ⚡ Fun fact **You will always find me reading books**
 
