@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Riya Rai</h1>
-<h3 align="center">A Sophomore at VIT AP University and a passionate frontend developer from India</h3>
+### Hey, I'm Riya 👋🏽 
 
-- 🌱 I’m currently learning **Web3**
+I'm a 21-year-old developer based in India, and I'm passionate about development and solving problems. 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WS9rnuUgKeYhrMXxeVPlzMlVwrgN8Xkl/view?usp=sharing)
+- Check out my [website](https://porfolio-riya.netlify.app/) to learn more about me.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/riyarai/) and [Twitter](https://twitter.com/riyarai1511).
 
-- ⚡ Fun fact **You will always find me reading books**
+## 📦 Toolbox
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/riyarai1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyarai1511" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/riya-rai-318578218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya rai" height="30" width="40" /></a>
-</p>
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `SCSS`
+ 
+**Version Control:** `Git`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**Backend Development:** `ExpressJS` `NodeJS` `Firebase`
+ 
+## ✨ Fun Facts 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya1511&show_icons=true&locale=en&layout=compact" alt="riya1511" /></p>
+- I love reading books.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya1511&show_icons=true&locale=en" alt="riya1511" /></p>
+## 📫 Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya1511&" alt="riya1511" /></p>
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/riyarai/) or mail me @ [riyarai1511@gmail.com](riyarai1511@gmail.com). 
+ 
