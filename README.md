@@ -7,11 +7,11 @@ I'm a 21-year-old developer based in India, and I'm passionate about development
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `SCSS`
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `SCSS` `MaterialUI`
  
 **Version Control:** `Git`
 
-**Backend Development:** `ExpressJS` `NodeJS` `Firebase`
+**Backend Development:** `ExpressJS` `NodeJS` `Firebase` `Django` 
  
 ## ✨ Fun Facts 
 
